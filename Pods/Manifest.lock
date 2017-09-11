@@ -1,0 +1,15 @@
+PODS:
+  - DZNEmptyDataSet (1.8.1)
+  - WechatOpenSDK (1.8.0)
+
+DEPENDENCIES:
+  - DZNEmptyDataSet (~> 1.8.1)
+  - WechatOpenSDK
+
+SPEC CHECKSUMS:
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  WechatOpenSDK: 0ee07a8d492299d3e47372a33da5af26524a7576
+
+PODFILE CHECKSUM: 14b7ea62cbf3112deba42df73b9c255e254b03dd
+
+COCOAPODS: 1.1.1
